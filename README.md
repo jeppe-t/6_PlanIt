@@ -141,7 +141,7 @@ its [emoji key](https://allcontributors.org/docs/en/emoji-key).
 
 If you want to contact the team you can reach us at KEA.
 
-## License
+## License 
 
 <!--- If you're not sure which open license to use see https://choosealicense.com/--->
 
